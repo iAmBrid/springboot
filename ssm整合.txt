@@ -1,0 +1,10 @@
+整和datasource的两种方式
+https://blog.csdn.net/qq_20916555/article/details/80852144
+
+c3p0使用ComboPooledDataSource
+https://blog.csdn.net/codejas/article/details/79334545
+https://www.cnblogs.com/ZhangZiSheng001/p/12080533.html
+
+ssm xml配置和文件配置
+
+mybatis xml文件和注解配置
